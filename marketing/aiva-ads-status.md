@@ -31,6 +31,27 @@ first).
 | **V2** | Your New Employee Never Sleeps | Staffing-cost displacement | **Instant Form (lead)** | "…does the job for a fraction of the cost." Form has **TCPA consent checkbox**. |
 | **V3** | Sounds Human. Works Like Magic. | "Will AI sound robotic?" objection + camera-bump viral hook | **Landing page** | "Worried an AI employee will sound cheap or robotic? It won't…" |
 
+### Landing page review (2026-07-26, from screenshot)
+
+Page: https://aiva-meta.base44.app — reviewed by ads lane. Palette **confirmed warm
+brown/cream ✅** (matches final videos, not gold).
+- **Headline:** "Your Next Employee Never Calls Out. Never Misses a Lead. Works 24/7."
+- **Subhead:** "Stop losing jobs because someone didn't answer the phone. AIVA answers
+  calls, responds to texts, qualifies leads, books appointments, follows up…"
+- **Two CTAs:** "Call AIVA Now →" (live demo) + "Have AIVA Call You" (callback capture).
+  Nav also has "Call Our AI Employee." Audience clear (contractors, HVAC/plumbing/roof).
+- ✅ Good enough to be the single destination for all 3 ads (Option A). No separate
+  Instant Form needed — "Have AIVA Call You" is the lead capture.
+
+**Fixes needed before ads go live:**
+1. ⚠️ **Verify social-proof claims are true** — "500+ Contractors Trust AIVA" and
+   "1,247 Calls Answered." If not real yet (founding-client stage), soften/remove —
+   Meta rejects misleading claims + trust risk. Live Feed reads as illustrative (OK).
+2. ⚠️ **"Have AIVA Call You" form needs the TCPA consent checkbox** (AI voice calling a
+   cell = TCPA). Add consent box (checklist §4) + privacy-policy link.
+3. Confirm **470-800-9501** is shown as text and that call buttons are real
+   `tel:+14708009501` tap-to-call links. Check mobile layout.
+
 **Creative to verify before upload:**
 - Brand color direction shifted mid-project **gold → warm brown/cream**. ⚠️ Double-check
   which final video files match the final palette before uploading — don't ship a gold cut.
