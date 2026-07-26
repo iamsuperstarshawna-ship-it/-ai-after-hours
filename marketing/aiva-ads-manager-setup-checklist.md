@@ -109,6 +109,26 @@ For **each** video, create an ad in the ad set:
 
 ---
 
+**Landing page URL for V1/V3 destination:** `https://aiva-meta.base44.app`
+
+---
+
+## §4a — Landing page self-check (do this once, on your phone)
+
+I can't open the page from my session (network policy blocks base44.app), so eyeball
+these on `https://aiva-meta.base44.app` — this is what makes the click-through actually convert:
+
+- [ ] **470-800-9501 is visible above the fold** and is a **tap-to-call link** on mobile
+      (tapping it should start a phone call, not just show text).
+- [ ] A clear **"Call AIVA"** button/headline (matches the ad's live-demo promise).
+- [ ] The page names the audience — **HVAC / plumbing / electrical / contractors** — so the
+      right people know they're in the right place.
+- [ ] Loads fast on mobile and looks right (most ad traffic is phones).
+- [ ] Brand shown as **AIVA** (all-caps) in text.
+- [ ] **If you're doing Option A** (form on the page): the page has the lead form with the
+      **TCPA consent checkbox** (§4) and a link to the privacy policy.
+- [ ] Pricing, if shown, matches **$199 / $349 / $549**.
+
 ## §4 — TCPA consent (required wherever V2's lead is captured)
 
 Whether the lead is captured on the **landing page form** (Option A) or a **Meta Instant
@@ -121,8 +141,18 @@ pre-check it.
 > the purpose of a demo and follow-up about this service. Consent is not a condition of
 > purchase. Message and data rates may apply. I can opt out at any time by replying STOP.
 
-**Also required by Meta on any lead form:** a **Privacy Policy URL.**
-**[NEEDS FROM YOU]** the privacy policy URL — or tell me and I'll draft a simple one to host.
+**Also required by Meta on any lead form:** a **Privacy Policy URL** →
+`https://aiva-meta.base44.app/privacy-policy` ✅ (exists).
+
+Verify the privacy policy actually covers these (Meta can reject a form if it doesn't,
+and TCPA needs it too). Eyeball the page for:
+- [ ] Business name (AIVA Virtual Intelligence) + a contact method.
+- [ ] That you collect **name, phone, email** and how you use them.
+- [ ] That contact may include **calls/texts, including AI voice and automated/pre-recorded**.
+- [ ] Mention that leads may come via **Facebook/Meta lead ads**.
+- [ ] How to **opt out** (reply STOP / contact us).
+
+If any bullet is missing, tell me and I'll draft the exact clause to add.
 
 > ⚠️ Compliance is real here: that consent is the legal basis for AIVA to call the lead.
 > No consent → no AI-voice follow-up call. Never call scraped/cold lists.

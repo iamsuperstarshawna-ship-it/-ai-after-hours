@@ -48,8 +48,10 @@ first).
 - CTA button copy / objective for V1 & V3 is being left to Ads Manager setup rather
   than manually forced.
 
-**[NEEDS FROM YOU]** The landing page URL (it's built elsewhere). I need the live URL
-to finalize V1/V3 routing and to sanity-check the "Call AIVA / 470-800-9501" messaging on it.
+**Landing page:** https://aiva-meta.base44.app (built on Base44)
+**Privacy policy:** https://aiva-meta.base44.app/privacy-policy
+_Note: this session's network policy blocks base44.app, so I can't audit the page
+contents from here — see the landing-page self-check in the setup checklist §4a._
 
 ---
 
