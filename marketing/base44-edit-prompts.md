@@ -98,20 +98,35 @@ Pro $549/mo. Add a highlighted note: "HVAC Founding Client Offer — lock in Ess
 pricing." Add a button "Get started: 470-800-9501" linking to tel:+14708009501.
 ```
 
-### Prompt 11 — Add the founders story (two co-founders + real photo)
+### Prompt 11 — Add the founders story (REAL story + real photo)
 ```
 Add a "Meet the Founders" section directly under the Founding Client section, styled as
 a personal note from the two co-founders, with room for a founder photo. Use this text:
 Heading: "Why We Built AIVA"
 Body:
-"We're Seon and Shawna Johán, the co-founders of AIVA Virtual Intelligence.
-[PERSONALIZE THIS LINE: your real reason — what you two saw that made you build this.]
-Here's what we kept seeing: some of the best home-service pros in the business — HVAC,
-plumbing, electrical — were losing real jobs for one simple reason. They were on a roof
-or under a sink and couldn't get to the phone. The caller didn't leave a message. They
-just dialed the next company.
-So we built AIVA: an AI employee who answers every call, day or night, books the job, and
-follows up — so a great business never loses work to voicemail again.
+"We're Seon and Shawna Johán — co-founders of AIVA, married partners, and real estate
+developers.
+
+We met seven years ago, both grinding in real estate on our own — Shawna on her first
+flip, Seon running full gut renovations. We teamed up and never looked back: lipstick
+flips, then teardowns, then ground-up new construction, all the way to building our own
+home. Then the market turned, and like a lot of builders, we lost properties. So we
+adapted — we held on to what we could and turned them into room rentals.
+
+Through every project and every crew, we kept seeing the same thing: the contractors we
+worked with were losing real money on calls they never got to answer. The good ones were
+slammed — too busy to hire, too burned out to train someone new, and wary of trusting the
+wrong person with their business. By the end of a long day, they had no phone calls left
+in them. And every missed call was money walking out the door.
+
+When Shawna started working with AI, we put it to work in our own rental business first —
+answering calls, handling the back-and-forth — and it changed everything for us. That's
+when it hit us: what if contractors could have the same thing? An employee who never
+misses a call, never needs training, never quits, and never gives you a reason to worry —
+who just answers, books, and follows up, around the clock.
+
+So we built her, together. That's AIVA.
+
 We're just getting started, and we're personally onboarding our first founding clients.
 If that's you, we'd love to have you."
 Signatures (two lines):
@@ -120,12 +135,11 @@ Signatures (two lines):
 Add space for a founder photo next to the text, and a button "Call AIVA yourself:
 470-800-9501" linking to tel:+14708009501.
 ```
-> 1) Replace [PERSONALIZE THIS LINE] with your REAL reason before pasting.
-> 2) After the section is added, upload the real founder photo into the photo slot — a
->    genuine photo of the two co-founders is the strongest trust signal for a new brand.
->
-> Founders of record (Seon listed first): **Seon M. Johán — Co-Founder & CEO**;
-> **Shawna F. Johán — Co-Founder & CTO**.
+> After the section is added, upload the real founder photo into the photo slot — a
+> genuine photo of the two co-founders is the strongest trust signal for a new brand.
+> Optional adds (owner's call): the "12,000 sq-ft home we built" detail (proves building
+> chops) and/or the Mallorca wedding (warmth). Left out by default to keep focus on the
+> contractor's pain.
 
 ---
 
