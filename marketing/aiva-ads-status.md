@@ -20,8 +20,8 @@ first).
 - **Pricing:** Essentials **$199/mo** · Growth **$349/mo** · Pro **$549/mo**
 - **HVAC Founding Client Offer** = matches the Essentials tier exactly ($199/mo).
 - **Demo phone number:** **470-800-9501** (calling it reaches AIVA live — our best proof).
-- **Co-founders:** **Shawna F. Johán** (Co-Founder & CTO) · **Seon M. Johán** (Co-Founder & CEO).
-  Real founder photo exists — use it in the "Meet the Founders" section (authentic trust signal).
+- **Co-founders (list Seon first):** **Seon M. Johán** (Co-Founder & CEO) · **Shawna F. Johán**
+  (Co-Founder & CTO). Real founder photo exists — use it in the "Meet the Founders" section.
 
 ---
 
