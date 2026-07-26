@@ -43,14 +43,15 @@ brown/cream ✅** (matches final videos, not gold).
 - ✅ Good enough to be the single destination for all 3 ads (Option A). No separate
   Instant Form needed — "Have AIVA Call You" is the lead capture.
 
-**Fixes needed before ads go live:**
-1. ⚠️ **Verify social-proof claims are true** — "500+ Contractors Trust AIVA" and
-   "1,247 Calls Answered." If not real yet (founding-client stage), soften/remove —
-   Meta rejects misleading claims + trust risk. Live Feed reads as illustrative (OK).
-2. ⚠️ **"Have AIVA Call You" form needs the TCPA consent checkbox** (AI voice calling a
-   cell = TCPA). Add consent box (checklist §4) + privacy-policy link.
-3. Confirm **470-800-9501** is shown as text and that call buttons are real
-   `tel:+14708009501` tap-to-call links. Check mobile layout.
+**Fixes needed before ads go live:** → full drop-in copy in `aiva-landing-page-copy-fixes.md`
+1. ✅ CONFIRMED FALSE by owner — remove "500+ Contractors Trust AIVA" + "1,247 Calls
+   Answered." Replace with founding-client line + an always-true stat (see copy-fixes).
+2. ⚠️ **TCPA, not CCPA.** Owner has a CCPA/privacy box, but a privacy notice does NOT
+   authorize an AI-voice call. The "Have AIVA Call You" form needs an explicit,
+   unchecked **automated/AI call & text consent** checkbox (exact wording in copy-fixes).
+3. Confirm **470-800-9501** shows as text + call buttons are `tel:+14708009501`. Mobile check.
+
+Demo number confirmed by owner: **470-800-9501**.
 
 **Creative to verify before upload:**
 - Brand color direction shifted mid-project **gold → warm brown/cream**. ⚠️ Double-check
