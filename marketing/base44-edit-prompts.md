@@ -98,6 +98,28 @@ Pro $549/mo. Add a highlighted note: "HVAC Founding Client Offer — lock in Ess
 pricing." Add a button "Get started: 470-800-9501" linking to tel:+14708009501.
 ```
 
+### Prompt 11 — Add the founder story (personalize the bracket first!)
+```
+Add a "Why I Built AIVA" section directly under the Founding Client section, styled as a
+personal note from the founder. Use this text:
+Heading: "Why I Built AIVA"
+Body:
+"Hi, I'm Shawna, founder of AIVA Virtual Intelligence.
+[PERSONALIZE THIS LINE: your real reason — e.g. what you saw that made you build this.]
+Here's what I kept seeing: some of the best home-service pros in the business — HVAC,
+plumbing, electrical — were losing real jobs for one simple reason. They were on a roof
+or under a sink and couldn't get to the phone. The caller didn't leave a message. They
+just dialed the next company.
+So I built AIVA: an AI employee who answers every call, day or night, books the job, and
+follows up — so a great business never loses work to voicemail again.
+We're just getting started, and I'm personally onboarding our first founding clients.
+If that's you, I'd love to have you."
+Signature line: "— Shawna, Founder, AIVA Virtual Intelligence"
+Add a button "Call AIVA yourself: 470-800-9501" linking to tel:+14708009501.
+```
+> Replace [PERSONALIZE THIS LINE] with your REAL reason before pasting — don't ship the
+> placeholder. That one true line is what makes the section land.
+
 ---
 
 ## After the edits — quick check
