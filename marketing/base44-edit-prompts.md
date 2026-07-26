@@ -98,27 +98,34 @@ Pro $549/mo. Add a highlighted note: "HVAC Founding Client Offer — lock in Ess
 pricing." Add a button "Get started: 470-800-9501" linking to tel:+14708009501.
 ```
 
-### Prompt 11 — Add the founder story (personalize the bracket first!)
+### Prompt 11 — Add the founders story (two co-founders + real photo)
 ```
-Add a "Why I Built AIVA" section directly under the Founding Client section, styled as a
-personal note from the founder. Use this text:
-Heading: "Why I Built AIVA"
+Add a "Meet the Founders" section directly under the Founding Client section, styled as
+a personal note from the two co-founders, with room for a founder photo. Use this text:
+Heading: "Why We Built AIVA"
 Body:
-"Hi, I'm Shawna, founder of AIVA Virtual Intelligence.
-[PERSONALIZE THIS LINE: your real reason — e.g. what you saw that made you build this.]
-Here's what I kept seeing: some of the best home-service pros in the business — HVAC,
+"We're Shawna and Seon Johán, the co-founders of AIVA Virtual Intelligence.
+[PERSONALIZE THIS LINE: your real reason — what you two saw that made you build this.]
+Here's what we kept seeing: some of the best home-service pros in the business — HVAC,
 plumbing, electrical — were losing real jobs for one simple reason. They were on a roof
 or under a sink and couldn't get to the phone. The caller didn't leave a message. They
 just dialed the next company.
-So I built AIVA: an AI employee who answers every call, day or night, books the job, and
+So we built AIVA: an AI employee who answers every call, day or night, books the job, and
 follows up — so a great business never loses work to voicemail again.
-We're just getting started, and I'm personally onboarding our first founding clients.
-If that's you, I'd love to have you."
-Signature line: "— Shawna, Founder, AIVA Virtual Intelligence"
-Add a button "Call AIVA yourself: 470-800-9501" linking to tel:+14708009501.
+We're just getting started, and we're personally onboarding our first founding clients.
+If that's you, we'd love to have you."
+Signatures (two lines):
+"— Shawna F. Johán, Co-Founder & CTO"
+"— Seon M. Johán, Co-Founder & CEO"
+Add space for a founder photo next to the text, and a button "Call AIVA yourself:
+470-800-9501" linking to tel:+14708009501.
 ```
-> Replace [PERSONALIZE THIS LINE] with your REAL reason before pasting — don't ship the
-> placeholder. That one true line is what makes the section land.
+> 1) Replace [PERSONALIZE THIS LINE] with your REAL reason before pasting.
+> 2) After the section is added, upload the real founder photo into the photo slot — a
+>    genuine photo of the two co-founders is the strongest trust signal for a new brand.
+>
+> Founders of record: **Shawna F. Johán — Co-Founder & CTO**; **Seon M. Johán —
+> Co-Founder & CEO**.
 
 ---
 
