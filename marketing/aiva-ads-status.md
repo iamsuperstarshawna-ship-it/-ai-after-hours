@@ -89,6 +89,27 @@ contents from here — see the landing-page self-check in the setup checklist §
 
 ---
 
+## 🚀 LAUNCHED — 2026-07-26 (Campaign #1 live)
+
+First AIVA Facebook/Instagram campaign published on day one.
+- **Campaign:** AIVA — Contractor Launch · Objective: Leads · Conversion location: Website
+- **Performance goal:** Maximize landing-page views (no pixel yet — see fast-follows)
+- **Ad set:** Contractor Test — Broad US · **$25/day** (campaign budget) · US · Age 30–65+
+  · Broad + Advantage+ · Advantage+ placements · **Dynamic Creative OFF**
+- **3 ads**, all → https://aiva-meta.base44.app, CTA "Learn More", creative enhancements OFF:
+  1. Never Miss a Call (V1) · 2. Sounds Human. Works Like Magic. · 3. Your New Employee Never Sleeps
+- **Status at launch:** 1 Active, 2 in review (normal — auto-approve within ~24h).
+- **Schedule:** started 2026-07-26; ~7-day test (~$175).
+- **DO NOT EDIT during learning phase (~5–7 days / first ~50 results).**
+
+### Fast-follows (not blocking; do next)
+1. **Meta Pixel** → create in Events Manager, install on Base44 page → then optimize for real
+   leads + build retargeting. (Owner has no pixel yet.)
+2. **Custom domain** aivavi.ai → point to the Base44 landing page so the link looks polished
+   and matches (avoids display-link mismatch).
+3. **[HANDOFF]** Meta→HubSpot lead sync for callback-form leads.
+4. Day-3 and Day-7 check-ins: review cost-per-result, winning video, CTR, landing-page views.
+
 ## Meta Ads Manager — current state
 
 - **Campaign:** "AIVA — Contractor Launch" · **Objective:** Leads
